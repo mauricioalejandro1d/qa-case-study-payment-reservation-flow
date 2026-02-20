@@ -47,3 +47,17 @@ The focus of this validation was financial accuracy, state consistency, and cros
 The identified issues affected financial integrity, booking reliability, and user experience.
 
 This case study reflects real-world QA analysis involving payment logic validation, business rule enforcement, and defect prioritization in a production-level environment.
+
+## 📄 QA Case Study – Payment & Reservation Flow
+
+This document includes:
+
+- End-to-end test scenarios
+- Critical bug analysis
+- Payment gateway validation (Niubiz)
+- Rewards logic validation (70% rule)
+- Concurrency and multi-reservation scenarios
+- UI and business logic findings
+
+👉 Download the full case study here:
+[Mauricio_Carrasquel_QA_Case_Study_Payment_Reservation_Flow.pdf](./Mauricio_Carrasquel_QA_Case_Study_Payment_Reservation_Flow.pdf)
